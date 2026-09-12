@@ -1,4 +1,5 @@
 # DVWA Web Security Assessment Lab
+<img width="727" height="78" alt="{6BA40572-6A08-41A5-82A9-10D01916F108}" src="https://github.com/user-attachments/assets/0b2e87fe-07f0-4227-802d-4bc7ce1170f9" />
 
 A hands-on web application security assessment performed in an authorized, isolated **Damn Vulnerable Web Application (DVWA)** lab environment using **Kali Linux**.
 
@@ -127,3 +128,22 @@ The assessment followed a structured security testing workflow:
    * Documented security impact.
    * Provided remediation recommendations.
    * Included supporting screenshots in the final assessment report.
+---
+## Disclaimer
+
+* This project is intended **only for educational and ethical security testing purposes**.
+* All testing was performed in an **isolated local DVWA lab environment**.
+* Never test real systems, applications, or networks without **explicit written authorization**.
+* The techniques demonstrated in this repository should only be used on systems you own or have permission to assess.
+
+---
+
+## Author
+
+**Arijit Nayak**
+
+B.Tech CSE — IoT, Cyber Security & Blockchain Technology
+
+
+**LinkedIn:** [Arijit Nayak](https://in.linkedin.com/in/arijit-nayak-69108a255)
+
