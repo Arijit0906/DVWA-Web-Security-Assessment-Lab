@@ -29,6 +29,8 @@ Because there is zero data sanitization, an attacker can append and execute arbi
    ```text
    127.0.0.1; cat /etc/passwd
    ```
+<img width="331" height="374" alt="image" src="https://github.com/user-attachments/assets/dbe46b74-0964-4a3a-a3cc-c685da27736b" />
+
 ## 🟡 2. Medium Difficulty
 
 ### 🔍 Vulnerability Analysis
