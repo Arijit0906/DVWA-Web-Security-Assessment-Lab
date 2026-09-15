@@ -62,6 +62,7 @@ The vulnerability stems from using a loose substring search rather than checking
 3. Bypassed the validation rule by hosting the malicious CSRF payload string inside an endpoint path named directly after the target server name (e.g., saving the file as `http://attacker.com` or naming a custom domain `://attacker.com`).
 4. **Result:** When the browser automatically attaches the `Referer` header matching our file path, the application detects the string `localhost` within the text block, evaluates the check as valid, and forces the password change silently.
 <img width="834" height="324" alt="image" src="https://github.com/user-attachments/assets/57d76f24-7d63-4257-9ab4-ecc6f11d8dc1" />
+<img width="812" height="321" alt="image" src="https://github.com/user-attachments/assets/d8bba30d-5754-47e4-aae6-1e0bda7fbc5d" />
 
 
 ---
